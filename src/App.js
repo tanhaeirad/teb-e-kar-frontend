@@ -1,8 +1,8 @@
 import React from 'react';
 
 const App = () => (
-  <div className="app">
-    <h1>Hello, world!</h1>
+  <div className="font-vazir">
+    <h1>سلام دنیا!</h1>
   </div>
 );
 
