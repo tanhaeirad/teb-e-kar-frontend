@@ -5,6 +5,22 @@ module.exports = {
     extend: {
       fontFamily: {
         vazir: ['Vazir', 'Roboto', 'Helvetica', 'Arial', 'sans-serif'],
+        nastaliq: [
+          'IranNastaliq',
+          'tahoma',
+          'Vazir',
+          'Roboto',
+          'Helvetica',
+          'Arial',
+          'sans-serif',
+        ],
+      },
+      screens: {
+        sm: '640px',
+        md: '768px',
+        lg: '1024px',
+        xl: '1280px',
+        '2xl': '1440px',
       },
       colors: {
         purple: {
@@ -18,10 +34,11 @@ module.exports = {
         },
       },
       container: {
+        center: true,
         screens: {
           sm: '100%',
           md: '100%',
-          lg: '1024px',
+          lg: '100%',
           xl: '1280px',
         },
       },
