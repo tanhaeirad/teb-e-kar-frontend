@@ -29,8 +29,9 @@ module.exports = {
           dark: '#5011cc',
         },
         white: {
-          primary: '#edf2f7',
-          secondary: '#f7fafc',
+          pure: '#fffffF',
+          secondary: '#e5e7eb',
+          primary: '#f7fafc',
         },
       },
       container: {
