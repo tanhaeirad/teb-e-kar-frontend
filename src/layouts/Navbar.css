@@ -1,0 +1,5 @@
+.nav-link {
+  @apply border-transparent border-b-2 border-white-secondary;
+  @apply transition duration-300 ease-in-out;
+  @apply hover:border-purple-secondary hover:text-purple-secondary;
+}
