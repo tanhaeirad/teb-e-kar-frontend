@@ -10,7 +10,7 @@ import './Navbar.css';
 // TODO: Should add motion to navbar
 
 const Navbar = () => (
-  <div className="container">
+  <div className="container mb-24">
     <div className="flex flex-row items-center justify-between text-base font-bold text-purple-primary">
       {/* navbar left-side */}
       <ul className="flex items-center flex-row">
