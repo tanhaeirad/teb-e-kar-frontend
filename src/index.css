@@ -71,3 +71,15 @@
     font-style: normal;
   }
 }
+
+/* Add nastaliq font-family */
+@layer base {
+  @font-face {
+    font-family: 'IranNastaliq';
+    src: url('./assets/fonts/IranNastaliq/IranNastaliq.eot?#') format('eot'),
+      url('./assets/fonts/IranNastaliq/IranNastaliq.woff') format('woff'),
+      url('./assets/fonts/IranNastaliq/IranNastaliq.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
+}
