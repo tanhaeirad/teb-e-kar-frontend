@@ -16,11 +16,11 @@ import Divider from '../layouts/Divider';
 // TODO: Should make it responsive
 
 const ServiceList = () => (
-  <section className="mt-8">
+  <section className="py-10">
     <Divider title="خدمات ما" />
     <div className="container max-w-5xl">
       <div className="flex flex-col items-center">
-        <p className="font-bold text-3xl mt-5 ">
+        <p className="font-bold text-3xl mt-6">
           {'تلاش ما '}
           <span className="text-purple-dark underline">ارائه بهترین خدمات</span>
           {' به شماست!'}
@@ -71,7 +71,7 @@ const ServiceList = () => (
             </span>
             <span className="mt-2 mr-4">
               <span className="mt-4 text-purple-primary font-bold text-xl">
-                تعین سلامت شعلی
+                تعیین سلامت شعلی
               </span>
               <p className="mt-2 text-gray-primary text-base">
                 لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
