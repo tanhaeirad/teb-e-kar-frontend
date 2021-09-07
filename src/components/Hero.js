@@ -9,12 +9,12 @@ import HeroImg from '../assets/img/Doctor_And_Patient.png';
 const Hero = () => (
   <div className="container grid grid-cols-12">
     <div className="col-span-5">
-      <h1 className="font-bold text-black-title md:text-2xl lg:text-3xl">
+      <h1 className="font-bold text-gray-heavy md:text-2xl lg:text-3xl">
         مرکز تخصصی طب کار
         <span className="text-purple-secondary"> دکتر تنهایی</span>
       </h1>
       <div className="mt-7">
-        <p className="text-lg">
+        <p className="text-lg text-purple-primary">
           لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده
           از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و
           سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای
