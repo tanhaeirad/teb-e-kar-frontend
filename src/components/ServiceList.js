@@ -71,7 +71,7 @@ const ServiceList = () => (
             </span>
             <span className="mt-2 mr-4">
               <span className="mt-4 text-purple-primary font-bold text-xl">
-                تعین سلامت شعلی
+                تعیین سلامت شعلی
               </span>
               <p className="mt-2 text-gray-primary text-base">
                 لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با
