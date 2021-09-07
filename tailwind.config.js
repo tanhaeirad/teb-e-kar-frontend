@@ -33,6 +33,11 @@ module.exports = {
           secondary: '#e5e7eb',
           primary: '#f7fafc',
         },
+        gray: {
+          primary: '#7c8ba1',
+          secondary: '#7180a0',
+          heavy: '#1a202c',
+        },
       },
       container: {
         center: true,
