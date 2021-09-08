@@ -1,0 +1,9 @@
+.footer-link {
+  @apply border-transparent border-b-2;
+  @apply transition duration-300 ease-in-out;
+  @apply text-white-alternative hover:border-white-alternative;
+}
+
+.hover-style {
+  @apply hover:opacity-75 transition duration-300 ease-in-out;
+}
