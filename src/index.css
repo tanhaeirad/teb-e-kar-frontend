@@ -83,3 +83,19 @@
     font-style: normal;
   }
 }
+
+@keyframes bounceOrig {
+  0%,
+  100% {
+    transform: translateY(-5%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+  }
+  50% {
+    transform: translateY(5%);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+  }
+}
+
+.hover\:bounceOrig:hover {
+  animation: bounceOrig 0.8s infinite;
+}

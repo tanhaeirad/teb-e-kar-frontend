@@ -10,6 +10,9 @@ import article4 from '../assets/img/article4.png';
 import article5 from '../assets/img/article5.png';
 import article6 from '../assets/img/article6.png';
 
+// TODO: Should add motion to Bloglist
+// TODO: Should make it responsive
+
 const BlogList = () => (
   <section className="py-10">
     <Divider title="آخرین مقالات" />
