@@ -55,7 +55,7 @@ const Footer = () => (
     {/* middle side of footer */}
     <div className="flex flex-col">
       <a href="/#" className="mx-auto font-nastaliq text-2xl hover-style">
-        مرکز تخصصی طب کار دکتر تنهایی
+        مرکز تخصصی طب کار آرنا
       </a>
       <div className="flex gap-8 justify-center font-semibold text-base mt-10">
         <a href="/#" className="footer-link">

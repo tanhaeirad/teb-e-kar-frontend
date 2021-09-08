@@ -11,7 +11,7 @@ const Hero = () => (
     <div className="col-span-5">
       <h1 className="font-bold text-gray-heavy md:text-2xl lg:text-3xl">
         مرکز تخصصی طب کار
-        <span className="text-purple-secondary"> دکتر تنهایی</span>
+        <span className="text-purple-secondary"> آرنا</span>
       </h1>
       <div className="mt-7">
         <p className="text-lg text-purple-primary">

@@ -47,7 +47,7 @@ const Navbar = () => (
       <a href="/#">
         <div className="flex items-center">
           <span className="font-nastaliq text-xl pt-1 ml-3  ">
-            مرکز تخصصی طب کار دکتر تنهایی
+            مرکز تخصصی طب کار آرنا
           </span>
           <img src={logo} alt="Logo" className="h-16" />
         </div>
